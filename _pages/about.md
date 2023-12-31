@@ -10,7 +10,7 @@ redirect_from:
 
 I’m a first-year PhD student at [Università della Svizzera italiana (USI)](https://www.usi.ch/it) in Lugano, Switzerland, in the [People-Centered Computing Lab](https://pc.inf.usi.ch) led by [Professor Marc Langheinrich](https://pc.inf.usi.ch/team/langheinrich) and [Professor Silvia Santini](https://pc.inf.usi.ch/team/santini). I developed a wide range of interests in ubiquitous computing, wearable computing, federated learning, AI privacy, security and interpretability, with a focus on healthcare and human activities.
 
-As a hobby I'm an utmost retrophile with great enthusiasm about vintage, and retro/(dark)synth/vapor music (especially disco-mixed).
+As a hobby I'm an utmost retrophile with great enthusiasm about vintage, and retro/ (dark)synth/ vapor/ funk/ disco-mix/ jazz-wave/ lo-fi music and more.
 
 Sorted Publications
 ======
