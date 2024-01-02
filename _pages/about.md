@@ -14,8 +14,6 @@ As a hobby I'm an utmost retrophile with great enthusiasm about vintage, and ret
 
 Sorted Publications
 ======
-Hu, Hongjie, Hao Huang, Mohan Li, Xiaoxiang Gao, Lu Yin, Ruixiang Qi, Ray S. Wu et al. "A wearable cardiac ultrasound imager." Nature 613, no. 7945 (2023): 667-675.
-[link](https://www.nature.com/articles/s41586-022-05498-z)
+Hu, Hongjie, Hao Huang, Mohan Li, Xiaoxiang Gao, Lu Yin, Ruixiang Qi, Ray S. Wu et al. ["A wearable cardiac ultrasound imager."](https://www.nature.com/articles/s41586-022-05498-z) Nature 613, no. 7945 (2023): 667-675.
 
-Hu, Hongjie, Yuxiang Ma, Xiaoxiang Gao, Dawei Song, Mohan Li, Hao Huang, Xuejun Qian et al. "Stretchable ultrasonic arrays for the three-dimensional mapping of the modulus of deep tissue." Nature Biomedical Engineering (2023): 1-14.
-[link](https://www.nature.com/articles/s41551-023-01038-w)
+Hu, Hongjie, Yuxiang Ma, Xiaoxiang Gao, Dawei Song, Mohan Li, Hao Huang, Xuejun Qian et al. ["Stretchable ultrasonic arrays for the three-dimensional mapping of the modulus of deep tissue."](https://www.nature.com/articles/s41551-023-01038-w) Nature Biomedical Engineering (2023): 1-14.
