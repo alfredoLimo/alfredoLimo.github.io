@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I’m a first-year PhD student at [Università della Svizzera italiana (USI)](https://www.usi.ch/it) in Lugano, Switzerland, in the [People-Centered Computing Lab](https://pc.inf.usi.ch) led by [Professor Marc Langheinrich](https://pc.inf.usi.ch/team/langheinrich) and [Professor Silvia Santini](https://pc.inf.usi.ch/team/santini). I developed a wide range of interests in ubiquitous computing, wearable computing, federated learning, AI privacy, security and interpretability, with a focus on healthcare and human activities.
+I’m a first-year PhD student at [Università della Svizzera italiana (USI)](https://www.usi.ch/it) in Lugano, Switzerland, in the [People-Centered Computing Lab](https://pc.inf.usi.ch) led by [Professor Marc Langheinrich](https://pc.inf.usi.ch/team/langheinrich) and [Professor Silvia Santini](https://pc.inf.usi.ch/team/santini).
+I work on Federated Learning with heterogeneous conditions and semi-/un-supervised techs.
+I also developed a wide range of interests in ubiquitous computing and wearable computing, with a general focus on healthcare.
+Before joining USI I was working on wearable devices for cardiac care in UC San Diego.
+
+I go by the name **Matteo** as well ;) (recommended by a friend)
 
 As a hobby I'm an utmost retrophile with great enthusiasm about vintage, and retro/ (dark)synth/ vapor/ funk/ disco-mix/ jazz-wave/ lo-fi music and more.
 
-I go by the name **Matteo** as well ;) (recommended by a friend)
 
 Sorted Publications
 ======
