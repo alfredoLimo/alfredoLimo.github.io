@@ -12,6 +12,8 @@ I’m a first-year PhD student at [Università della Svizzera italiana (USI)](ht
 
 As a hobby I'm an utmost retrophile with great enthusiasm about vintage, and retro/ (dark)synth/ vapor/ funk/ disco-mix/ jazz-wave/ lo-fi music and more.
 
+I go by the name **Matteo** as well ;) (recommended by a friend)
+
 Sorted Publications
 ======
 Hu, Hongjie, Hao Huang, Mohan Li, Xiaoxiang Gao, Lu Yin, Ruixiang Qi, Ray S. Wu et al. ["A wearable cardiac ultrasound imager."](https://www.nature.com/articles/s41586-022-05498-z) Nature 613, no. 7945 (2023): 667-675.
