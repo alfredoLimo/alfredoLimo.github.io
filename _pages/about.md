@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I’m a first-year PhD student at [Università della Svizzera italiana (USI)](https://www.usi.ch/it) in Lugano, Switzerland, in the [People-Centered Computing Lab](https://pc.inf.usi.ch) led by [Professor Marc Langheinrich](https://pc.inf.usi.ch/team/langheinrich) and [Professor Silvia Santini](https://pc.inf.usi.ch/team/santini).
-I work on Federated Learning with heterogeneous conditions and semi-/un-supervised techs.
+I work on Federated Learning with heterogeneous conditions and semi-/un-supervised techs. ([CV](https://github.com/user-attachments/files/16644180/MohanLi_resume_2024.pdf))
 I also developed a wide range of interests in ubiquitous computing and wearable computing, with a general focus on healthcare.
 Before joining USI I was working on wearable devices for cardiac care in UC San Diego.
 
