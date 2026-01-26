@@ -13,7 +13,7 @@ I’m a third-year PhD student at [Università della Svizzera italiana (USI)](ht
 I work on **LLM security/privacy**, **Trustworthy ML**, **Federated Learning**, and **wearables**.
 I also developed a wide range of interests in ubiquitous computing, with a general focus on healthcare.
 Before joining USI I was working on wearable devices for cardiac care in UC San Diego.
-[my CV.](https://github.com/user-attachments/files/24004519/MohanLi_resume_2025.pdf)
+[my CV](https://github.com/user-attachments/files/24867235/MohanLi_resume_2025.pdf).
 
 Sorted Publications
 ======
