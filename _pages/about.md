@@ -18,11 +18,12 @@ Before joining USI I was working on wearable devices for cardiac care in UC San 
 Sorted Publications
 ======
 
-Anonymous. 
+**Li, Mohan**, Dario Fenoglio, Martin Gjoreski, and Marc Langheinrich.
 ["Federated Learning with Profile Mapping under Distribution Shifts and Drifts."](https://openreview.net/forum?id=thoPskdIcE) 
-In The Fourteenth International Conference on Learning Representations (ICLR 2026), accepted.
+ICLR 2026
 
-Fenoglio, Dario, **Mohan Li**, Pietro Barbiero, Nicholas D. Lane, Marc Langheinrich, and Martin Gjoreski. ["FLUX: Efficient Descriptor-Driven Clustered Federated Learning under Arbitrary Distribution Shifts."](https://neurips.cc/virtual/2025/loc/san-diego/poster/116099) In The Thirty-ninth Annual Conference on Neural Information Processing Systems.
+Fenoglio, Dario, **Mohan Li**, Pietro Barbiero, Nicholas D. Lane, Marc Langheinrich, and Martin Gjoreski. ["FLUX: Efficient Descriptor-Driven Clustered Federated Learning under Arbitrary Distribution Shifts."](https://neurips.cc/virtual/2025/loc/san-diego/poster/116099)
+NeurIPS 2025
 
 **Li, Mohan**, Martin Gjoreski, Pietro Barbiero, Gašper Slapničar, Mitja Luštrek, Nicholas D. Lane, and Marc Langheinrich. ["A Survey on Federated Learning in Human Sensing."](https://arxiv.org/abs/2501.04000) arXiv preprint arXiv:2501.04000 (2025).
 
