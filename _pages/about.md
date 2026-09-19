@@ -8,12 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I’m a third-year PhD student at [Università della Svizzera italiana (USI)](https://www.usi.ch/it) in Lugano, Switzerland, in the [People-Centered Computing Lab](https://pc.inf.usi.ch) led by [Professor Marc Langheinrich](https://pc.inf.usi.ch/team/langheinrich) and [Professor Silvia Santini](https://pc.inf.usi.ch/team/santini).
+I’m a fourth means-year PhD student at [Università della Svizzera italiana (USI)](https://www.usi.ch/it) in Lugano, Switzerland, in the [People-Centered Computing Lab](https://pc.inf.usi.ch) led by [Professor Marc Langheinrich](https://pc.inf.usi.ch/team/langheinrich) and [Professor Silvia Santini](https://pc.inf.usi.ch/team/santini).
 
-I work on **LLM security/privacy**, **Trustworthy ML**, **Federated Learning**, and **wearables**.
+I work on
+**LLM Agent alignment**,
+**Agent Safety**,
+**LLM security/privacy**,
+**Trustworthy ML**,
+**Federated Learning**,
+and **wearables**.
 I also developed a wide range of interests in ubiquitous computing, with a general focus on healthcare.
 Before joining USI I was working on wearable devices for cardiac care in UC San Diego.
-[my CV](https://github.com/user-attachments/files/24867235/MohanLi_resume_2025.pdf).
+[my CV](https://github.com/user-attachments/files/32415977/MohanLi_resume_2026.pdf)
+
 
 Sorted Publications
 ======
