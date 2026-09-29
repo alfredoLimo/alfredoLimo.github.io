@@ -19,7 +19,8 @@ I work on
 and **wearables**.
 I also developed a wide range of interests in ubiquitous computing, with a general focus on healthcare.
 Before joining USI I was working on wearable devices for cardiac care in UC San Diego.
-[my CV](https://github.com/user-attachments/files/32415977/MohanLi_resume_2026.pdf)
+[my CV](https://github.com/user-attachments/files/32792287/MohanLi_resume_2026.pdf)
+
 
 
 Sorted Publications
