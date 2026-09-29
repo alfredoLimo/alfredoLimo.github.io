@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a fourth means-year PhD student at [Università della Svizzera italiana (USI)](https://www.usi.ch/it) in Lugano, Switzerland, in the [People-Centered Computing Lab](https://pc.inf.usi.ch) led by [Professor Marc Langheinrich](https://pc.inf.usi.ch/team/langheinrich) and [Professor Silvia Santini](https://pc.inf.usi.ch/team/santini).
+I'm a fourth-year PhD student at [Università della Svizzera italiana (USI)](https://www.usi.ch/it) in Lugano, Switzerland, in the [People-Centered Computing Lab](https://pc.inf.usi.ch) led by [Professor Marc Langheinrich](https://pc.inf.usi.ch/team/langheinrich) and [Professor Silvia Santini](https://pc.inf.usi.ch/team/santini).
 
 I work on
 **LLM Agent alignment**,
@@ -18,31 +18,89 @@ I work on
 **Federated Learning**,
 and **wearables**.
 I also developed a wide range of interests in ubiquitous computing, with a general focus on healthcare.
-Before joining USI I was working on wearable devices for cardiac care in UC San Diego.
-[my CV](https://github.com/user-attachments/files/32792287/MohanLi_resume_2026.pdf)
+Before joining USI, I worked on wearable devices for cardiac care at UC San Diego.
 
+[My CV](https://github.com/user-attachments/files/32792287/MohanLi_resume_2026.pdf)
 
-
-Sorted Publications
+Publications
 ======
 
-**Mohan Li**, Dario Fenoglio, Martin Gjoreski, and Marc Langheinrich.
-["Federated Learning with Profile Mapping under Distribution Shifts and Drifts."](https://openreview.net/forum?id=thoPskdIcE) 
-ICLR 2026
+<style>
+.pub { display: flex; gap: 1.2em; margin: 1.6em 0; align-items: flex-start; }
+.pub-img { flex: 0 0 150px; width: 150px; height: 150px; border: 1px solid #e3e3e3;
+           border-radius: 6px; overflow: hidden; background: #fff; }
+.pub-img img { width: 100%; height: 100%; object-fit: contain; margin: 0; }
+.pub-text { flex: 1; min-width: 0; }
+.pub-title { font-weight: 600; line-height: 1.35; margin-bottom: 0.3em; }
+.pub-title a { color: inherit; text-decoration: none; }
+.pub-title a:hover { text-decoration: underline; }
+.pub-authors { font-size: 0.9em; margin-bottom: 0.2em; }
+.pub-venue { font-size: 0.9em; font-style: italic; color: #555; }
+@media (max-width: 600px) {
+  .pub { flex-direction: column; }
+  .pub-img { width: 100%; max-width: 260px; height: auto; aspect-ratio: 1 / 1; flex-basis: auto; }
+}
+</style>
 
-Dario Fenoglio, **Mohan Li**, Pietro Barbiero, Nicholas D. Lane, Marc Langheinrich, and Martin Gjoreski. ["FLUX: Efficient Descriptor-Driven Clustered Federated Learning under Arbitrary Distribution Shifts."](https://neurips.cc/virtual/2025/loc/san-diego/poster/116099)
-NeurIPS 2025
+<div class="pub">
+  <div class="pub-img"><img src="/images/pubs/neurips26.png" alt="Alignment-Utility Asymmetry"></div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2609.32717">LLM Alignment–Utility Asymmetry under Semantic-Preserving Transformations</a></div>
+    <div class="pub-authors"><b>Mohan Li</b>, Chengyu Yu, Francesco Sovrano, Marc Langheinrich, Martin Gjoreski</div>
+    <div class="pub-venue">NeurIPS 2026</div>
+  </div>
+</div>
 
-**Mohan Li**, Martin Gjoreski, Pietro Barbiero, Gašper Slapničar, Mitja Luštrek, Nicholas D. Lane, and Marc Langheinrich. ["A Survey on Federated Learning in Human Sensing."](https://arxiv.org/abs/2501.04000) arXiv preprint arXiv:2501.04000 (2025).
+<div class="pub">
+  <div class="pub-img"><img src="/images/pubs/iclr26.png" alt="Profile Mapping FL"></div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://openreview.net/forum?id=thoPskdIcE">Federated Learning with Profile Mapping under Distribution Shifts and Drifts</a></div>
+    <div class="pub-authors"><b>Mohan Li</b>, Dario Fenoglio, Martin Gjoreski, Marc Langheinrich</div>
+    <div class="pub-venue">ICLR 2026</div>
+  </div>
+</div>
 
-Dario Fenoglio, **Mohan Li**, Davide Casnici, Matias Laporte, Shkurta Gashi, Silvia Santini, Martin Gjoreski, and Marc Langheinrich. ["Multi-Frequency Federated Learning for Human Activity Recognition Using Head-Worn Sensors."](https://ieeexplore.ieee.org/abstract/document/10599924?casa_token=dmXfoKZRRr4AAAAA:9dM2L9PQ0bCUIs9UO-KzkZExZqKifBCbyWYMNxCwmIhofsZzfT9IjohtjLRZS2g-Cpz30RmrYLvc) In 2024 International Conference on Intelligent Environments (IE), pp. 17-24. IEEE, 2024.
+<div class="pub">
+  <div class="pub-img"><img src="/images/pubs/flux.png" alt="FLUX"></div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/116099">FLUX: Efficient Descriptor-Driven Clustered Federated Learning under Arbitrary Distribution Shifts</a></div>
+    <div class="pub-authors">Dario Fenoglio, <b>Mohan Li</b>, Pietro Barbiero, Nicholas D. Lane, Marc Langheinrich, Martin Gjoreski</div>
+    <div class="pub-venue">NeurIPS 2025</div>
+  </div>
+</div>
 
-Hongjie Hu, Hao Huang, **Mohan Li**, Xiaoxiang Gao, Lu Yin, Ruixiang Qi, Ray S. Wu et al. ["A wearable cardiac ultrasound imager."](https://www.nature.com/articles/s41586-022-05498-z) Nature 613, no. 7945 (2023): 667-675.
+<div class="pub">
+  <div class="pub-img"><img src="/images/pubs/fl-survey.png" alt="FL survey"></div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2501.04000">A Survey on Federated Learning in Human Sensing</a></div>
+    <div class="pub-authors"><b>Mohan Li</b>, Martin Gjoreski, Pietro Barbiero, Gašper Slapničar, Mitja Luštrek, Nicholas D. Lane, Marc Langheinrich</div>
+    <div class="pub-venue">arXiv preprint, 2025</div>
+  </div>
+</div>
 
-Hongjie Hu, Yuxiang Ma, Xiaoxiang Gao, Dawei Song, **Mohan Li**, Hao Huang, Xuejun Qian et al. ["Stretchable ultrasonic arrays for the three-dimensional mapping of the modulus of deep tissue."](https://www.nature.com/articles/s41551-023-01038-w) Nature Biomedical Engineering (2023): 1-14.
+<div class="pub">
+  <div class="pub-img"><img src="/images/pubs/mffl.png" alt="Multi-Frequency FL"></div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://ieeexplore.ieee.org/document/10599924">Multi-Frequency Federated Learning for Human Activity Recognition Using Head-Worn Sensors</a></div>
+    <div class="pub-authors">Dario Fenoglio, <b>Mohan Li</b>, Davide Casnici, Matias Laporte, Shkurta Gashi, Silvia Santini, Martin Gjoreski, Marc Langheinrich</div>
+    <div class="pub-venue">International Conference on Intelligent Environments (IE), 2024</div>
+  </div>
+</div>
 
+<div class="pub">
+  <div class="pub-img"><img src="/images/pubs/cardiac.png" alt="Wearable cardiac imager"></div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://www.nature.com/articles/s41586-022-05498-z">A wearable cardiac ultrasound imager</a></div>
+    <div class="pub-authors">Hongjie Hu, Hao Huang, <b>Mohan Li</b>, Xiaoxiang Gao, Lu Yin, Ruixiang Qi, Ray S. Wu, et al.</div>
+    <div class="pub-venue">Nature, 2023</div>
+  </div>
+</div>
 
-
-
-
-
+<div class="pub">
+  <div class="pub-img"><img src="/images/pubs/modulus.png" alt="Stretchable ultrasonic arrays"></div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://www.nature.com/articles/s41551-023-01038-w">Stretchable ultrasonic arrays for the three-dimensional mapping of the modulus of deep tissue</a></div>
+    <div class="pub-authors">Hongjie Hu, Yuxiang Ma, Xiaoxiang Gao, Dawei Song, <b>Mohan Li</b>, Hao Huang, Xuejun Qian, et al.</div>
+    <div class="pub-venue">Nature Biomedical Engineering, 2023</div>
+  </div>
+</div>
